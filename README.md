@@ -1,2 +1,2 @@
-# bounceOffAlgorithm-master
-bouncing off two sprites
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
